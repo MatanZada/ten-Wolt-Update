@@ -19,8 +19,6 @@
 
 ![Alt text](/img/addTernary.png "Git checkbox")
 # route/client.html
-**'Here we can add a new client'**
-![Alt text](/img/addClient.png "Git checkbox")
 
 # Client information
 
